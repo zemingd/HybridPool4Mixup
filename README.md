@@ -1,4 +1,4 @@
-Implementaion of Enhancing Mixup-Based Graph Learning for Language Processing via Hybrid Pooling [[arxiv]](https://arxiv.org/abs/2210.03123).
+Implementation of the paper: On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Language Processing [[arxiv]](https://arxiv.org/abs/2210.03123).
 
 ## Requirements
 On Ubuntu:
