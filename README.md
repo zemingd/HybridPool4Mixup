@@ -1,4 +1,4 @@
-Implementaion of Journal of Systems and Software (JSS 2024) paper: On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Language Processing [[arxiv]](https://arxiv.org/abs/2210.03123). 
+Implementation of Journal of Systems and Software (JSS 2024) paper: On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Language Processing [[arxiv]](https://arxiv.org/abs/2210.03123). 
 
 We build this project on the top of [GNN-FakeNews](https://github.com/safe-graph/GNN-FakeNews/tree/main) and [Project_CodeNet](https://github.com/IBM/Project_CodeNet). Please refer to these projects for more details.
 
