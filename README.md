@@ -1,6 +1,12 @@
+#  On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Language Processing
 Implementation of Journal of Systems and Software (JSS 2024) paper: On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Language Processing [[arxiv]](https://arxiv.org/abs/2210.03123). 
 
 We build this project on the top of [GNN-FakeNews](https://github.com/safe-graph/GNN-FakeNews/tree/main) and [Project_CodeNet](https://github.com/IBM/Project_CodeNet). Please refer to these projects for more details.
+
+## Introduction
+The performance of linear interpolation methods, especially those used for graph learning, can be significantly influenced by graph pooling operators. To investigate this, we conduct a comprehensive empirical study by applying Manifold-Mixup to a formal characterization of graph pooling. This study encompasses 11 graph pooling operations, including 9 hybrid and 2 non-hybrid pooling operators, to explore how these operators affect the performance of Mixup-based graph learning.
+
+<div align=center><img src="img/overview.png"></div>
 
 ## Requirements
 On Ubuntu:
